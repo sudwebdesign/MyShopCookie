@@ -2,8 +2,8 @@
 <document>
 	<title><![CDATA[MyShopCookie]]></title>
 	<author><![CDATA[Yannic]]></author>
-	<version>0.1</version>
-	<date>28/03/2017</date>
+	<version>0.2</version>
+	<date>02/04/2017</date>
 	<site></site>
 	<description><![CDATA[Ajoute un cookie pour le plugin plxMyShop]]></description>
 	<requirements>plxMyShop</requirements>
